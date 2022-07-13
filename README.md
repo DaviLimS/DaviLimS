@@ -1,4 +1,6 @@
-Oi, meu nome é Davi.
+<h1 class="display-4">
+Oi, meu nome é Davi
+</h1>
 
 📖 eu sou um estudante
 
@@ -20,5 +22,5 @@ Oi, meu nome é Davi.
 </div>
   
 <div>
-  <a href="https://github.com/DaviLimS" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/DaviLimS" target="_blank"><img src="" target="_blank"></a>
 </div>
