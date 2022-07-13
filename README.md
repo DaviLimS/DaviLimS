@@ -4,7 +4,7 @@ Oi, meu nome é Davi
 
 📖 eu sou um estudante
 
-🖥️ no momento programo em python
+🖥️ Sou programador júnior
 
 📧 Contate-me através do email: davilimasoares1@outlook.com 
 
