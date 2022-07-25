@@ -4,7 +4,7 @@ Oi, meu nome é Davi
 
 📖 eu sou um estudante
 
-🖥️ Sou programador júnior em Html, CSS, Javascript e C#
+🖥️ Sou programador em Javascript, C# e Java
 
 📧 Contate-me através do email: davilimasoares1@outlook.com 
 
