@@ -4,7 +4,7 @@ Oi, meu nome é Davi
 
 📖 eu sou um estudante
 
-🖥️ Sou programador em Javascript
+🖥️ Sou programador em Javascript e em Typescript
 
 📧 Contate-me através do email: davilimasoares1@outlook.com 
 
