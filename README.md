@@ -2,11 +2,7 @@
 Oi, meu nome é Davi
 </h1>
 
-📖 eu sou um estudante
-
-🖥️ Sou programador em Javascript e em Typescript
-
-📧 Contate-me através do email: davilimasoares1@outlook.com 
+🖥️ Sou programador em Javascript
 
 <hr>
 
