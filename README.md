@@ -1,8 +1,8 @@
 <h1 class="display-4">
-Oi, meu nome é Davi
+Hi, my name is Davi.
 </h1>
 
-🖥️ Sou programador em Javascript
+🖥️ I'm a Javascript programmer
 
 <hr>
 
